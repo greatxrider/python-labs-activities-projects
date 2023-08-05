@@ -23,6 +23,7 @@ def CreateRectangle():
     SkinnyBlueRectangle.width
     SkinnyBlueRectangle.color
     SkinnyBlueRectangle.drawRectangle()
+    print("Jeph Mari Daligdig")
 
 CreateBlueCircle()
 CreateRedCircle()
